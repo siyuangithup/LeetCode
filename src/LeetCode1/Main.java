@@ -10,7 +10,7 @@ package LeetCode1;
  */
 public class Main {
     public static void main(String[] args) {
-        Solution su = new Solution();
+        Solution3 su = new Solution3();
         //int[] nums = new int[]{3,3};
         int[] nums = new int[]{3,3};
         su.twoSum(nums, 6);
